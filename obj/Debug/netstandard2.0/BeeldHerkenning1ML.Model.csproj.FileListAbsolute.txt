@@ -1,0 +1,9 @@
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\bin\Debug\netstandard2.0\BeeldHerkenning1ML.Model.deps.json
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\bin\Debug\netstandard2.0\BeeldHerkenning1ML.Model.dll
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\bin\Debug\netstandard2.0\BeeldHerkenning1ML.Model.pdb
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\obj\Debug\netstandard2.0\BeeldHerkenning1ML.Model.csprojAssemblyReference.cache
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\obj\Debug\netstandard2.0\BeeldHerkenning1ML.Model.AssemblyInfoInputs.cache
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\obj\Debug\netstandard2.0\BeeldHerkenning1ML.Model.AssemblyInfo.cs
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\obj\Debug\netstandard2.0\BeeldHerkenning1ML.Model.dll
+C:\School\BeeldHerkenning1\BeeldHerkenning1ML.Model\obj\Debug\netstandard2.0\BeeldHerkenning1ML.Model.pdb
